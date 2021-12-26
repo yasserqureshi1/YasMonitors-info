@@ -7,9 +7,9 @@ These monitors aim to send a notification to a Discord webhook URL when a releas
 
 
 ## How to Sign Up
-Currently we are restricting users as we start off and expand. So for now, please fill out the Google Form below and I'll select 20 people as our first customers. If you are chosen, you will be contacted via email or Discord where you are expected to purchase at least 1 monitor.
+Currently we are restricting the number of users as we start off and expand. So for now, please fill out the Google Form below and I'll select 20 people for our first customers. If you are chosen, you will be contacted via email or Discord where you are expected to purchase at least 1 monitor.
 
-Later on, we will deploy a dashboard that will allow for anyone to create accounts, subscribe to specific monitors and customise them to their specifications.
+Later on, we will deploy a dashboard that will allow for anyone where you can create accounts, subscribe to specific monitors and customise them to their specifications.
 
 
 ## Why you should use this rather than the free ones?
@@ -28,7 +28,7 @@ I am also committed to delivering high customer service so will respond quick to
 
 ## How it works
 The process is very simple and follows the steps below:
-1. You sign through our Google Form
+1. You sign up through our Google Form
 2. If selected, you will be granted access to the YasMonitors Discord channel which will be used for updates on new monitors, mentions of any price changes and details of any downtime
 3. You can purchase as many monitors as you want (for now capped at a maximum of 5 monitors per person). Each monitor is a monthly subscription and you will be able to unsubscribe at anytime
 4. You provide the webhooks for each monitor that you purchase
@@ -41,8 +41,9 @@ Below is a list of the current available monitors. As we start out, only a few m
 
 Site | Locations | What it monitors
 -----|-----------|------------------
-SNKRS | UK, US | New sneakers on SNKRS app
-KITH | UK, US | New sneakers
+SNKRS | UK, US | Restocks and Releases on SNKRS app
+KITH | UK, US | Restocks and Releases
+Nike | UK, US | Restocks and Releases
 
 ## Payments
 
