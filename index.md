@@ -2,20 +2,20 @@
 
 
 ## About
-YasMonitors is web-monitoring service. It was created due to popular demand for the sneaker community.
-These monitors aim to send a notification to a Discord webhook URL when a release or restock occurs, but we are also developing monitors that notify price reductions and discounts.  
+YasMonitors is web-monitoring service. It was created due to popular demand for the sneaker community, however as we expand these monitors will be provided to everyone that wants one.
+These monitors aim to send a notification to a Discord webhook URL when a release or restock occurs, but we will also develop monitors that notify price reductions and discounts.
 
 
 ## How to Sign Up
-Currently we are restricting users as we continue to expand and deploy. So for now, please fil out the Google Form below and I'll select 20 people as the first customers. If you are chosen, you are expected to purchase at least 1 monitor.
+Currently we are restricting users as we start off and expand. So for now, please fill out the Google Form below and I'll select 20 people as our first customers. If you are chosen, you will be contacted via email or Discord where you are expected to purchase at least 1 monitor.
 
 Later on, we will deploy a dashboard that will allow for anyone to create accounts, subscribe to specific monitors and customise them to their specifications.
 
 
 ## Why you should use this rather than the free ones?
-These monitors are built differently to the ones on GitHub. 
-Through this paid service, I will be actively maintaining and updating the monitors.
-You will not have to deal with any code or deployment, you will only be required to provide the webhook URL.
+These monitors are built differently to the ones on GitHub and will be faster.
+Through this paid service, I will be actively updating the monitors, maintaining the servers that they are hosted on and use some of the best proxies to ensure minimal downtime.
+With this service, you will not have to deal with any code or deployment - you just need to sign up and send me your Discord Webhook URL!
 
 
 ## Why you should use this rather than other competitors?
@@ -28,16 +28,16 @@ I am also committed to delivering high customer service so will respond quick to
 
 ## How it works
 The process is very simple and follows the steps below:
-1. You sign up to YasMonitors (currently a Google Form)
-2. You will be granted access to the YasMonitors Discord channel which will be used for updates on new monitors, mentions of any price changes and details of any downtime
-3. You can purchase as many monitors as you want. Each monitor is a monthly subscription and you will be able to unsubscribe at anytime
+1. You sign through our Google Form
+2. If selected, you will be granted access to the YasMonitors Discord channel which will be used for updates on new monitors, mentions of any price changes and details of any downtime
+3. You can purchase as many monitors as you want (for now capped at a maximum of 5 monitors per person). Each monitor is a monthly subscription and you will be able to unsubscribe at anytime
 4. You provide the webhooks for each monitor that you purchase
 5. I ensure that notification are delivered to you and that the service runs smoothly
 6. I will keep updating the monitors and adding new ones
 
 
 ## Current Monitors
-Below is a list of the current available monitors. As we start out, only a few monitors are available, but new monitors will be added.
+Below is a list of the current available monitors. As we start out, only a few monitors are available, however we are quickly expanding the monitors we can provide as well as the countries, so keep an eye out on this page.
 
 Site | Locations | What it monitors
 -----|-----------|------------------
@@ -46,9 +46,13 @@ KITH | UK, US | New sneakers
 
 ## Payments
 
-Payments are handled by [Stripe](https://stripe.com/) and payment information is only stored with them. I have no access to payment information. I only have access to your name and email address.
+Payments are handled by [Stripe](https://stripe.com/) and payment information is only stored with them. I have no access to payment information. I only have access to your name and email address. When you subscribe, you will recieve an email from Stripe for each monitor to pay for that month. If you miss a payment, you will not recieve notifications.
 
 
 ## Other Details
 
-Downtime may occur for short periods, but you will be notified well in advance of these periods. Nevertheless these should not affect you as I will try to peform any maintenance outside of release dates/times.
+If any downtime occurs, it will only be for short periods, but you will be notified well in advance of these periods. Nevertheless this should not affect you as I will try to peform any maintenance outside of release dates/times.
+
+## Questions
+
+If you have any questions, please message me on Discord: TheBrownPanther2#3801
